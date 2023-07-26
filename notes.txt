@@ -1,0 +1,36 @@
+The following tests failed:
+
+✗ The 'NEW' labels within <h2> tags should have a color of '#fa9f42' (+ 1 related test)
+✗ The element with the ID 'copyright' should have a font-size of 0.75em
+
+
+body {
+  background-color: #e0e0e2;
+}
+
+h1 {
+  color: #721817;
+}
+
+h2 {
+  color: #721817;
+}
+
+.center-text {
+  text-align: center;
+}
+
+#logo {
+  margin: auto;
+  display: block;
+}
+
+h2 > span {
+    font-size: 0.75em;
+    color: #FA9F42;
+}
+
+#copyright {
+    font-size: 0.75em;
+    padding: 12px 0 0 0;
+}
