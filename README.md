@@ -4,7 +4,7 @@ Coursera: [Meta Front-End Developer](https://www.coursera.org/professional-certi
 
 ## [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer)
 
-Repository: 
+Repositories: 
 
 - [examine_the_page](examine_the_page)
 - [styling_a_page](styling_a_page)
